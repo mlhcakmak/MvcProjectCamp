@@ -156,3 +156,16 @@ C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\obj\Debug\MvcProjeKampi
 C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\obj\Debug\MvcProjeKampi.csproj.CopyComplete
 C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\obj\Debug\MvcProjeKampi.dll
 C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\obj\Debug\MvcProjeKampi.pdb
+C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\bin\BusinessLayer.dll
+C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\bin\DataAccessLayer.dll
+C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\bin\EntityLayer.dll
+C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\bin\EntityFramework.dll
+C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\bin\BusinessLayer.pdb
+C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\bin\BusinessLayer.dll.config
+C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\bin\DataAccessLayer.pdb
+C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\bin\DataAccessLayer.dll.config
+C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\bin\EntityLayer.pdb
+C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\bin\EntityLayer.dll.config
+C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\bin\EntityFramework.xml
+C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\bin\EntityFramework.SqlServer.dll
+C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\bin\EntityFramework.SqlServer.xml
