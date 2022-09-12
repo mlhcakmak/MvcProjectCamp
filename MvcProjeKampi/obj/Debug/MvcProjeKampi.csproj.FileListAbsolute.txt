@@ -169,3 +169,9 @@ C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\bin\EntityLayer.dll.con
 C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\bin\EntityFramework.xml
 C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\bin\EntityFramework.SqlServer.dll
 C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\bin\EntityFramework.SqlServer.xml
+C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\bin\FluentValidation.dll
+C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\bin\FluentValidation.xml
+C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\melih\source\repos\MvcProjectCamp\MvcProjeKampi\bin\System.Threading.Tasks.Extensions.xml
